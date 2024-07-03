@@ -1,0 +1,3 @@
+[submodule "springSessionCache"]
+	path = springSessionCache
+	url = https://github.com/yellowballoon/TechBlog.git
