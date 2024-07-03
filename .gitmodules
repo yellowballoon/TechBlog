@@ -1,0 +1,3 @@
+[submodule "springSessionCache"]
+	path = springSessionCache
+	url = https://github.com/kdg1986/springSessionCache.git
