@@ -1,0 +1,16 @@
+# Authors
+
+yellowballoon:
+  name: "yellowballoon(관리자)"
+  avatar: /assets/images/ybcloud.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio: "**관리자**"
+  location: "서울, 대한민국"
+  email: "master@ybtour.com"
+kgi0412:
+  name: "kgi0412(iTiSt)"
+  avatar: "https://avatars.githubusercontent.com/u/6601041?v=4"
+  bio: "개발자"
+  email: "kgi0412@ybtour.com"
+mauvpark:
+  name: "mauvpark"
+  email: "mauvpark@ybtour.com"
